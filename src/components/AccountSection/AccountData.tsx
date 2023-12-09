@@ -28,7 +28,7 @@ const AccountData: React.FC = () => {
           <img src={avatar1} alt="cat" className="w-10 rounded-full ml-4" />
         </span>
 
-        <DarkMode />
+        {/* <DarkMode /> */}
 
         <TasksDone />
         <DeleteTasks />
